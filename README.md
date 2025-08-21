@@ -37,7 +37,7 @@ AuthAPI é uma API REST robusta e segura desenvolvida em .NET 9.0, projetada par
 - 🔑 **Recuperação de Senha**: Sistema seguro de reset de senha
 - 🛡️ **Validação Robusta**: Validação de dados de entrada usando FluentValidation
 - 📊 **Logging Estruturado**: Sistema de logs detalhado para monitoramento
-- 🧪 **Testes Automatizados**: Cobertura completa de testes unitários e de integração
+- 🧪 **Testes Automatizados**: Cobertura completa de testes unitários
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -154,10 +154,6 @@ AuthAPI é uma API REST robusta e segura desenvolvida em .NET 9.0, projetada par
    ```bash
    dotnet run --project src/AuthAPI.API
    ```
-
-5. **Acesse a documentação:**
-   - API: https://localhost:7001
-   - Swagger UI: https://localhost:7001/swagger
 
 ### ⚙️ Configuração do Ambiente
 
