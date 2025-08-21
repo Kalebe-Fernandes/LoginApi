@@ -312,12 +312,12 @@ const getUserProfile = async () => {
 };
 ```
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor e 📬 Contato
 
-**Seu Nome**
-- GitHub: [@seuusuario](https://github.com/seuusuario)
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-- Email: seu.email@dominio.com
+Desenvolvido por **Kalebe Fernandes**  
+📧 kallebe.fernandes@hotmail.com  
+📦 GitHub: [@Kalebe-Fernandes](https://github.com/Kalebe-Fernandes?tab=repositories)
+- LinkedIn: [linkedin.com/in/kalebe-fernandes](https://www.linkedin.com/in/kalebe-fernandes-012a371ba/)
 
 ## 📄 Licença
 
